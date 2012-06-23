@@ -1,7 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
-          - minor documentation fixes
+          - renamed to Test::LWP::UserAgent (thanks, mst!)
 
 0.001     2012-06-22 17:11:20 PDT-0700 (Karen Etheridge)
           - Initial release, in all its questionable glory.
