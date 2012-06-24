@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+          - fix pod errors
 
 0.002     2012-06-23 09:37:31 PDT-0700 (Karen Etheridge)
           - renamed to Test::LWP::UserAgent (thanks, mst!)

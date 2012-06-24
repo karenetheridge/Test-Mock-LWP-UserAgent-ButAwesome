@@ -14,9 +14,9 @@ Test::Mock::LWP::Dispatch::ButAwesome - Renamed to Test::LWP::UserAgent
 
 =head1 DESCRIPTION
 
-Reanmed to L<Test::LWP::UserAgent>
+This module has been renamed to L<Test::LWP::UserAgent>.
 
-AUTHOR
+=head1 AUTHOR
 
 Karen Etheridge <ether@cpan.org>
 
